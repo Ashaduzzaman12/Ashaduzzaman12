@@ -16,7 +16,8 @@
   
  - 👯 I’m looking forward to collaborate on python projects.
 
- -  🌱 Learning Software Development 
+ -  🌱 Learning Software Development
+ -  Working in Deep Learnig
  - I'm Interested in Learning Anything
 
 <br>
