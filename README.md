@@ -118,6 +118,8 @@
     &emsp;
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
     &emsp;
+    <a href="https://codeforces.com/"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=plastic&logo=codeforces&logoColor=white"></a>
+    &emsp;
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white"></a>
     &emsp;
       <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=plastic&logo=jupyter&logoColor=white"></a>  
@@ -145,8 +147,6 @@
     &emsp;
       <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
     &emsp;
-      <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-    &emsp;
       <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white"></a>
   </p>
   <br> 
@@ -157,3 +157,7 @@
 </p>
 
   ---
+  p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&theme=gotham&show_icons=true" alt="shamimsikder"/>
+
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Ashaduzzaman12&show_icons=true&theme=gotham"/>
+</p>
