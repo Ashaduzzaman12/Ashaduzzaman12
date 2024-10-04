@@ -157,7 +157,8 @@
 </p>
 
   ---
-  p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&theme=gotham&show_icons=true" alt="shamimsikder"/>
+  
+  <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Ashaduzzaman12&show_icons=true&theme=gotham"/>
 </p>
