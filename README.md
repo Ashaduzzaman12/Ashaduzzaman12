@@ -1,13 +1,13 @@
-# Ashaduzzaman12
 <h1 align="center">Hi 👋, I'm S M ASHADUZZAMAN</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science++Engineering+Student;Competitive+Programmer;Software+Developer;Always+learning+new+things"></a>
 </p>
 <br>
- 🛠️ My Skills
 
- <picture> <img src = "https://github.com/Ashaduzzaman12/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+###   🛠️ My Skills
+ 
+### Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -32,9 +32,7 @@
   </a>
 </p>
 	
- <picture><img src = "https://github.com/Ashaduzzaman12/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+### About me
 
 <br><br>
   
@@ -47,6 +45,7 @@
 
 <br>
 
+### Competitive Programming 
 <p align="center">
   <a href="https://codeforces.com/profile/S.M.Ashaduzzaman"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/u/ashadfagun12/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
@@ -55,7 +54,7 @@
 	
 </p>
 
-<picture> <img src="https://github.com/Ashaduzzaman12/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+##  Connect with me
 <p align="center">
 	<a href="mailto:ashadfagun12@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Ashaduzzaman12"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -64,7 +63,7 @@
 </p>
 
 
- <picture> <img src = "https://github.com/Ashaduzzaman12/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -83,7 +82,8 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
- <picture> <img src = "https://github.com/Ashaduzzaman12/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+
+### Software & Tools
  
  <p align="center">
     &emsp;
@@ -112,19 +112,17 @@
       <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
   </p>
 
- <picture> <img src = "https://github.com/Ashaduzzaman12/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
+### IDEs
+  <br>
   <p align="center">
     &emsp;
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
     &emsp;
-    <a href="https://codeforces.com/"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=plastic&logo=codeforces&logoColor=white"></a>
-    &emsp;
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white"></a>
     &emsp;
       <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=plastic&logo=jupyter&logoColor=white"></a>  
-  </p>  
- <picture> <img src = "https://github.com/Ashaduzzaman12/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+  </p>
+### Competitive Programming & Problem Solving
  
   <p align="center">
     &emsp;
@@ -136,11 +134,9 @@
     &emsp;
       <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
     &emsp;
-      <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-    &emsp;
       <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
   </p>
- <picture> <img src = "https://github.com/Ashaduzzaman12/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+## Operating Systems
   <p align="center">
     &emsp;
       <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
@@ -151,19 +147,17 @@
   </p>
   <br> 
   ---
-
+  
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
   ---
-
+  ### Github Status
   <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Ashaduzzaman12&show_icons=true&theme=gotham"/>
 </p>
+</details>
 
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Ashaduzzaman12&theme=gotham"/>
-    <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-    
-    </p>
+
