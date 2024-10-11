@@ -139,12 +139,17 @@
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
   ---
   ### Github Status
   <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Ashaduzzaman12&show_icons=true&theme=gotham"/>
+</p>
+<p>
+	 <a href="https://github.com/Ashaduzzaman12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashaduzzaman12&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+
 </p>
 </details>
 
