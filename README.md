@@ -110,6 +110,7 @@
     &emsp;
       <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=plastic&logo=jupyter&logoColor=white"></a>  
   </p>
+  
 ### Competitive Programming & Problem Solving
  
   <p align="center">
@@ -124,6 +125,7 @@
     &emsp;
       <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
   </p>
+  
 ### Operating Systems
   <p align="center">
     &emsp;
@@ -140,7 +142,8 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
   ---
-  ## Github Status
+		
+  ### Github Status
   <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Ashaduzzaman12&show_icons=true&theme=gotham"/>
