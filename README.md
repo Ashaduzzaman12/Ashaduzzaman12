@@ -147,15 +147,25 @@
   </p>
 
 ### IDEs
-  <br>
-  <p align="center">
-    &emsp;
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white"></a>
-    &emsp;
-      <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=plastic&logo=jupyter&logoColor=white"></a>  
-  </p>
+<br>
+<p align="center">
+  &emsp;
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=plastic&logo=jupyter&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=plastic&logo=googlecolab&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=plastic&logo=apache-netbeans-ide&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB.svg?style=plastic&logo=xcode&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-FFFFFF.svg?style=plastic&logo=ollama&logoColor=black"></a>
+</p>
   
 ### Competitive Programming & Problem Solving
  
